@@ -12,8 +12,13 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<font-awesome :icon="['fab', 'github']"/>
+			<font-awesome :icon="['fab', 'twitter']"/>
+			<a href="//twitter.com/gridsome">Portfolio</a>
+			<a href="//twitter.com/gridsome">Instagram</a>
+			<a href="//twitter.com/gridsome">LinkedIn</a>
+			<a href="//twitter.com/gridsome">Github</a>
+			<a href="//github.com/gridsome/gridsome-starter-blog">Telegram</a>
 		</p>
 
 	</div>
