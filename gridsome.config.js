@@ -7,6 +7,8 @@
 module.exports = {
   siteName: '8droid tutorial',
   siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
+  siteUrl: 'https://irfanirawansukirman.github.io',
+  pathPrefix: '/8droid',
 
   templates: {
     Post: '/:title',
