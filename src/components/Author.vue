@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			Sebuah blog sederhana yang berisikan tentang tutorial android dan ios serta pengalaman selama bekerja menjadi seorang mobile engineer. Semoga bermanfaat :)
 		</p>
 
 		<p class="author__links">
