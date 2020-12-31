@@ -17,7 +17,7 @@
 			<a href="//twitter.com/gridsome">Portfolio</a>
 			<a href="//twitter.com/gridsome">Instagram</a>
 			<a href="//twitter.com/gridsome">LinkedIn</a>
-			<a href="//twitter.com/gridsome">Github</a>
+			<a href="//twitter.com/gridsome">Github			<font-awesome :icon="['fab', 'github']"/></a>
 			<a href="//github.com/gridsome/gridsome-starter-blog">Telegram</a>
 		</p>
 
