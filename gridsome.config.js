@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: '8droid tutorial',
-  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
+  siteName: '8droid Ninja',
+  siteDescription: 'Sebuah blog sederhana yang berisikan tentang tutorial android dan ios serta pengalaman selama bekerja menjadi seorang mobile engineer. Semoga bermanfaat :)',
   siteUrl: 'https://irfanirawansukirman.github.io',
   pathPrefix: '/8droid',
 
